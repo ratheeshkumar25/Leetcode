@@ -53,4 +53,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ratheeshkumar25/Leetcode/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ratheeshkumar25/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ratheeshkumar25/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
