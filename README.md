@@ -28,11 +28,13 @@
 | [0049-group-anagrams](https://github.com/ratheeshkumar25/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ratheeshkumar25/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ratheeshkumar25/Leetcode/tree/master/0242-valid-anagram) |
+| [0647-palindromic-substrings](https://github.com/ratheeshkumar25/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ratheeshkumar25/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ratheeshkumar25/Leetcode/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/ratheeshkumar25/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Union Find
 |  |
 | ------- |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ratheeshkumar25/Leetcode/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/ratheeshkumar25/Leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
