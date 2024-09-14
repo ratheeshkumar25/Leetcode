@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ratheeshkumar25/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/ratheeshkumar25/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ratheeshkumar25/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ratheeshkumar25/Leetcode/tree/master/0242-valid-anagram) |
@@ -36,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ratheeshkumar25/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ratheeshkumar25/Leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/ratheeshkumar25/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Union Find
@@ -72,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ratheeshkumar25/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/ratheeshkumar25/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Bucket Sort
 |  |
